@@ -53,9 +53,9 @@ We are part of the [Department of Electrical and Computer Engineering](https://c
   </a>
 </div>
 
-The main theme of our research activity is interconnected systems. A large-scale example is the Internet. The Internet is a large-scale network of computers interconnected via different communication systems such as WiFi, Ethernet, and optical fibers. Our research considers computers interconnected via wireless communication only. It also considers computers that are embedded, not desktop/laptop computers, such as computers inside drones, cellphones, and small satellites. For example, our [research](research) has included small motion sensors that can communicate with one another and that can be worn to measure body motion for physical therapy, autonomous drones that communicate with one another using wireless transceivers to coordinate their flight activity to monitor wildfires, and a cube satellite for jamming detection.
+The main theme of our research activity is interconnected systems. A large-scale example is the Internet. The Internet is a large-scale network of computers interconnected via different communication systems such as WiFi, Ethernet, and optical fibers. Our research considers computers interconnected via wireless communication only. It also considers computers that are embedded, not desktop/laptop computers, such as computers inside drones, cellphones, and small satellites. For example, our [research]({{ site.url }}{{ site.baseurl }}/research) has included small motion sensors that can communicate with one another and that can be worn to measure body motion for physical therapy, autonomous drones that communicate with one another using wireless transceivers to coordinate their flight activity to monitor wildfires, and a cube satellite for jamming detection.
 
-**We are looking for passionate graduate and undergraduate students to join our lab** [(more info)](joinus) **!**
+**We are looking for passionate graduate and undergraduate students to join our lab** [(more info)]({{ site.url }}{{ site.baseurl }}/joinus.html) **!**
 
 We are grateful for funding from [LMU Seaver College of Science and Engineering](https://cse.lmu.edu) and the [National Science Foundation](https://www.nsf.org).
 
