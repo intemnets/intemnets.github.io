@@ -1,0 +1,63 @@
+
+- title: "Point Set Registration for Target Localization using Unmanned Aerial Vehicles"
+  image: psr.png
+  authors: Dhruvil Darji, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1145/3586575
+    display: ACM Transactions on Spatial Algorithms and Systems, vol. 9, no. 3, pp. 1-29 Sep. 2023
+    
+- title: "Motion Based Routing and Transmission Power Control in Wireless Body Area Networks"
+  image: wban.png
+  authors: Garrett Newell, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/OJCOMS.2020.2986396
+    display: IEEE Open Journal of the Communications Society, vol. 1, pp. 444-461, Apr. 2020
+
+- title: "Volume Estimations for Combined Free-Weight and Rubber-Band Resistance Exercise"
+  image: liftw.png
+  authors: Todd Shoepe, Gustavo Vejarano, Nathan Reyes, Nicole Gobreial, Jeanette Ricci
+  link:
+    url: https://hrcak.srce.hr/file/276511
+    display: Kinesiology, vol. 49, no. 2, pp. 169-177, Oct. 2017
+ 
+- title: "Accuracy Improvement on the Measurement of Human Joint Angles"
+  image: arm.png
+  authors: Dai Meng, Todd Shoepe, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/JBHI.2015.2394467
+    display: IEEE Journal of Biomedical and Health Informatics, vol. 20, no. 2, pp. 498-507, Mar. 2016
+
+- title: "Distributed Throughput Maximization in Wireless Networks using the Stability Region"
+  image: tpc.png
+  authors: Gustavo Vejarano, Dexiang Wang, Ritwik Dubey, Janise McNair
+  link:
+    url: https://doi.org/10.1109/TPDS.2013.202
+    display: IEEE Transactions on Parallel and Distributed Systems, vol. 25, no. 7, pp. 1713-1723, Jul. 2014
+
+- title: "Stability Analysis of Reservation-Based Distributed Scheduling Policies in Wireless Networks"
+  image: queues.png
+  authors: Gustavo Vejarano, Janise McNair
+  link:
+    url: https://doi.org/10.1109/TPDS.2011.201
+    display: IEEE Transactions on Parallel and Distributed Systems, vol. 23, no. 4, pp. 760-767, Apr. 2012
+
+- title: "Stability Region Adaptation using Transmission Power Control for Transport Capacity Optimization in IEEE 802.16 Wireless Mesh Networks"
+  image: queues2.png
+  authors: Gustavo Vejarano, Dexiang Wang, Janise McNair
+  link:
+    url: https://doi.org/10.1016/j.comnet.2011.03.021
+    display: Elsevier Computer Networks Journal, vol. 55, no. 16, pp. 3694-3703, Nov. 2011
+
+- title: "A Constructivist Simulation-Based Methodology for Teaching Mobile Communications"
+  image: edu.png
+  authors: Gustavo Vejarano, Fabio Guerrero
+  link:
+    url: https://doi.org/10.1109/TE.2007.914941
+    display: IEEE Transactions on Education, vol. 51, no. 4, pp. 468-475, Nov. 2008
+    
+- title: "Introducción a los Sistemas de Comunicaciones Móviles Modernos"
+  image: cells.png
+  authors: Fabio Guerrero, Javier Parra, Gustavo Vejarano
+  link:
+    url: http://bibliotecadigital.univalle.edu.co/handle/10893/1423
+    display: Energía y Computación, vol. 12, no. 22, pp. 9-14, Jan. 2005

@@ -1,0 +1,10 @@
+
+<div class="well">
+<h3>News!!</h3>
+
+{% for article in site.data.news limit:4 %}
+<p><h4>{{ article.date }}:</h4>{{ article.headline | markdownify}}</p><br>
+{% endfor %}
+
+<h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+</div>

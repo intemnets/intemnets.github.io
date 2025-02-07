@@ -1,0 +1,83 @@
+- title: "Open-Source Quadcopter for Autonomous UAV Networks for Surveillance using Zigbee Radios and Thermal Imaging"
+  image: uavnet.png
+  authors: Justin Hynes, Alejandro Marcovich, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/MILCOM61039.2024.10773795
+    display: IEEE Military Communications Conference (MILCOM'24), Washington, DC, USA, Oct. 2024
+
+- title: "Targeted Broadcast in Vehicular Ad-Hoc Networks"
+  image: roads.png
+  authors: Roberto Ventura, William Bjorndahl, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/LATINCOM59467.2023.10361856
+    display: IEEE Latin-American Conference on Communications (LATINCOM'23), Panama City, Panama, Nov. 2023
+
+- title: "Pothole Detection from Dash Camera Images using YOLOv5"
+  image: pothole.png
+  authors: Rashit Patel, Lei Huang, Gustavo Vejarano
+  link:
+    url: https://gvejaran.intemnets.lmu.build/publications/conference/CPaper12.pdf
+    display: 26th International Conference on Image Processing, Computer Vision, & Pattern Recognition (IPCV'22), Las Vegas, NV, USA, Jul. 2022
+
+- title: "Non-Audible Speech Classification Using Deep Learning Approaches"
+  image: speech.png
+  authors: Rommel Fernandes, Lei Huang, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/CSCI49370.2019.00118
+    display: 6th Annual Conference on Computational Science & Computational Intelligence (CSCI'19), Las Vegas, NV, USA, Dec. 2019
+
+- title: "Counting Static Targets using an Unmanned Aerial Vehicle On-The-Fly and Autonomously"
+  image: counting.png
+  authors: Dhruvil Darji, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/CSCI49370.2019.00118
+    display: 15th Computer and Robot Vision (CRV 2018), Toronto, ON, Canada, May 2018
+
+- title: "Human-Motion Based Transmission Power Control in Wireless Body Area Networks"
+  image: traj.png
+  authors: Garrett Newell, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/WF-IoT.2016.7845404
+    display: IEEE 3rd World Forum on Internet of Things (WF-IoT 2016), Reston, VA, USA, Dec. 2016
+
+- title: "Prediction of Received Signal Strength from Human Joint Angles in Body Area Networks"
+  image: pred.png
+  authors: Thang Tran, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/ICCNC.2016.7440700
+    display: International Conference on Computing, Networking and Communications (ICNC'16), Kauai, HI, USA, Feb. 2016
+
+- title: "Development of a Wireless Sensor Network for the Measurement of Human Joint Angles"
+  image: testbed.png
+  authors: Dai Meng, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.1109/GLOCOM.2010.5683854
+    display: IEEE International Conference on Connected Vehicles and Expo (ICCVE'13), Las Vegas, NV, USA, Dec. 2013
+
+- title: "Queue-Stability-Based Transmission Power Control in Wireless Multihop Networks"
+  image: qlength.png
+  authors: Gustavo Vejarano, Janise McNair
+  link:
+    url: https://doi.org/10.1109/GLOCOM.2010.5683854
+    display: IEEE Global Communications Conference, Exhibition and Industry Forum 2010 (GLOBECOM'10), Miami, FL, USA, Dec. 2010
+
+- title: "Reservation-Based Distributed Scheduling in Wireless Networks"
+  image: reserve.png
+  authors: Gustavo Vejarano, Janise McNair
+  link:
+    url: https://doi.org/10.1109/WOWMOM.2010.5534904
+    display: IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM'10), Montreal, QC, Canada, Jun. 2010
+
+- title: "WiMAX-RBDS-Sim: An OPNET Simulation Framework for Reservation-Based Distributed Scheduling Policies in IEEE 802.16 Mesh Networks"
+  image: wimax.png
+  authors: Gustavo Vejarano, Janise McNair
+  link:
+    url: https://dl.acm.org/doi/10.5555/1808143.1808178
+    display: 3rd International Conference on Simulation Tools and Techniques (SIMUTools'10), Torremolinos, Malaga, Spain, Mar. 2010
+
+- title: "An Intelligent Wireless Mesh Network Backbone"
+  image: mesh.png
+  authors: Gustavo Vejarano, Janise McNair
+  link:
+    url: https://dl.acm.org/doi/10.5555/1460047.1460052
+    display: 3rd International Conference on Wireless Internet (WICON'07), Austin, TX, USA, Oct. 2007
