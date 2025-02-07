@@ -13,7 +13,7 @@ Feel free to [contact us](mailto:gustavo.vejarano@lmu.edu) if you are interested
 
 LMU students can join our lab for research assistantships, MS thesis, graduate and undergraduate capstone projects, independent studies, and/or work study.
 
-Prospective students need to apply to one of the graduate programs of our department to be considered.
+Prospective students need to apply and be admitted to one of the academic programs of our [department](https://cse.lmu.edu/department/electricalandcomputerengineeringdepartment/) to be considered.
 
 Thank you very much for your interest!
 
