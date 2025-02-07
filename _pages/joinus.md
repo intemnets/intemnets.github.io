@@ -5,6 +5,7 @@ excerpt: "Join us"
 sitemap: false
 permalink: /joinus
 ---
+
 <br>
 <h4><b>We are looking for passionate graduate and undergraduate students to join our lab!</b></h4>
 
@@ -18,6 +19,6 @@ Thank you very much for your interest!
 
 <figure class="fourth">
   <center>
-	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wnet.gif" style="width: 600px">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wnet.gif" style="width: 450px">
   </center>
 </figure>

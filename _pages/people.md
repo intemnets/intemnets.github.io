@@ -6,6 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
+<br>
 <h3>Faculty</h3>
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty_members %}

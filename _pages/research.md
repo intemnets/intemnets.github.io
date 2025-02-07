@@ -6,6 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
+<br>
 <h3>Research</h3>
 
 The Intemnets Lab conducts research on intelligent networked systems that adapt to human activity and the environment to provide services for a variety of applications. We refer to these systems as Intelligent and Embedded Networked (Intemnet) Systems and consider different areas of operation (i.e., personal, local, metropolitan, and global areas) as shown in Figure 1.

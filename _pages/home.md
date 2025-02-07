@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+<br>
 <h3>Welcome to the Intelligent and Embedded Networked Systems (Intemnets) Laboratory</h3>
 
 We are part of the [Department of Electrical and Computer Engineering](https://cse.lmu.edu/department/electricalandcomputerengineeringdepartment/) at [Loyola Marymount University](https://www.lmu.edu/) in Los Angeles, California.
