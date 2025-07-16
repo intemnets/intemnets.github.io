@@ -1,10 +1,16 @@
+- title: "Distributed Monitoring of Moving Thermal Targets Using Unmanned Aerial Vehicles and Gaussian Mixture Models"
+  image: gmm.png
+  authors: Yuanji Huang, Pavithra Sripathanallur Murali, Gustavo Vejarano
+  link:
+    url: https://doi.org/10.3390/robotics14070085
+    display: MDPI Robotics, vol. 14, no. 7, pp. 85-109, Jun. 2025
 
 - title: "Point Set Registration for Target Localization using Unmanned Aerial Vehicles"
   image: psr.png
   authors: Dhruvil Darji, Gustavo Vejarano
   link:
     url: https://doi.org/10.1145/3586575
-    display: ACM Transactions on Spatial Algorithms and Systems, vol. 9, no. 3, pp. 1-29 Sep. 2023
+    display: ACM Transactions on Spatial Algorithms and Systems, vol. 9, no. 3, pp. 1-29, Sep. 2023
     
 - title: "Motion Based Routing and Transmission Power Control in Wireless Body Area Networks"
   image: wban.png
